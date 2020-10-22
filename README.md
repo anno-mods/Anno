@@ -2,13 +2,13 @@
     <a href="https://git.io/anno-mods"><img src="https://github.com/anno-mods.png"></a>
 </p>
 
-### It is time :heavy_exclamation_mark: The old Mod Manager has passed away :heavy_exclamation_mark: Funeral flowers and candles are welcome
+### It is time :heavy_exclamation_mark: The old Mod Manager has passed away :heavy_exclamation_mark: Funeral flowers & candles are welcome
 
 RIP. Spread the word!
 
 <br />
 
-**Please** use the new **AMM** now. It is really great!
+**Please** use **AMM** now. It is really great!
 
 - [Nexus Mods](https://www.nexusmods.com/anno1800/mods/35)
 - GitHub: [Download](https://github.com/LemonDrop1228/anno1800-mod-manager) / [Open Source](https://github.com/LemonDrop1228/AMM-Source-Code) :hammer:
