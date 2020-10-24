@@ -16,6 +16,10 @@ RIP. Spread the word!
 
 <br />
 
+Or [download](https://github.com/xforce/anno1800-mod-loader/releases) and install the [Anno 1800 Mod Loader](https://github.com/xforce/anno1800-mod-loader/#readme) manually
+
+<br />
+
 #### :x: Don't Update Your [Mod Collection](https://github.com/anno-mods/Collection) in the old Mod Manager!
 
 We have to make a reboot - Please check and discuss the <a href="https://github.com/anno-mods/Collection/issues">Issues</a>
