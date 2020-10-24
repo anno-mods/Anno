@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/anno-mods"><img src="https://github.com/anno-mods.png"></a>
+    <a href="https://github.com/anno-mods/Collection"><img src="https://github.com/anno-mods.png"></a>
 </p>
 
 ### It is time :heavy_exclamation_mark: The old Mod Manager has passed away :heavy_exclamation_mark: Funeral flowers & candles are welcome
@@ -16,4 +16,6 @@ RIP. Spread the word!
 
 <br />
 
-#### :x: Don't Update Your Mod Collection! We have to make a reboot - Please check and discuss the <a href="https://github.com/anno-mods/Collection/issues">Issues</a>
+#### :x: Don't Update Your [Mod Collection](https://github.com/anno-mods/Collection) in the old Mod Manager!
+
+We have to make a reboot - Please check and discuss the <a href="https://github.com/anno-mods/Collection/issues">Issues</a>
