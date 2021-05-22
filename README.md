@@ -13,13 +13,3 @@
 <br />
 
 Or [download](https://github.com/xforce/anno1800-mod-loader/releases) and install the [Anno 1800 Mod Loader](https://github.com/xforce/anno1800-mod-loader/#readme) manually
-
-<br />
-
-### It is time :heavy_exclamation_mark: The old Mod Manager has passed away :heavy_exclamation_mark:
-
-#### :x: Don't Update Your [Mod Collection](https://github.com/anno-mods/Collection) in the old Mod Manager!
-
-We have to make a reboot - Check and discuss the <a href="https://github.com/anno-mods/Collection/issues">Issues</a>
-
-RIP. Spread the word!
